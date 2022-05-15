@@ -1,0 +1,13 @@
+{
+  "name": "epoch-converter",
+  "main": "./lib/epoch-converter",
+  "version": "0.1.0",
+  "description": "Display local or GMT epoch time into human readable dates within preview mode",
+  "keywords": ["epoch", "unix", "converter", "time"],
+  "repository": "https://github.com/inkdropapp/epoch-converter",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}

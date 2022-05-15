@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle epoch-converter",
+        "command": "epoch-converter:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "epoch-converter",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "epoch-converter:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
